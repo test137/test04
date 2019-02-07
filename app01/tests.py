@@ -6,9 +6,9 @@ from django.test import TestCase
 a = 2 + 'ok'
 a = 31234
 
-
 b = 4
 c = 5
 d = 12
 e = 11
 
+xxx = 000
