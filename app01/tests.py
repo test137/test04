@@ -4,7 +4,7 @@ from django.test import TestCase
 
 
 a = 2 + 'ok'
-a = 3
+a = 31234
 
 b = 4
 c = 5
